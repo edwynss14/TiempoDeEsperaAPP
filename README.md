@@ -18,3 +18,5 @@ Aplicación en **Kotlin** con **Jetpack Compose** que mide el tiempo que una `Ac
 3. Pulsar **Home** para enviar la app a segundo plano y volver a abrirla desde **Recientes** para ver los tiempos registrados en consola y en las tarjetas de la pantalla.
 
 ## Evidencia de ejecución
+
+<img width="1808" height="189" alt="aplicacionEnPausa" src="https://github.com/user-attachments/assets/43825814-e057-4d94-9f5a-48e04718be53" />
